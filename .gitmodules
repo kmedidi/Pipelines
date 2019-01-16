@@ -1,3 +1,6 @@
 [submodule "App"]
 	path = App
 	url = https://github.com/CSC-DevOps/App
+[submodule "hook-demo"]
+	path = hook-demo
+	url = https://github.com/kmedidi/hook-demo.git
